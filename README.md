@@ -4,13 +4,13 @@
   <b>Repositório de estudos focado em desenvolvimento front-end moderno</b>
 </p>
 
----
+
 
 ## 📌 Sobre
 
 Este repositório foi criado com o objetivo de estudar e praticar tecnologias modernas de desenvolvimento web, com foco em aplicações front-end utilizando as principais ferramentas do mercado.
 
----
+
 
 ## 🛠 Tecnologias
 
@@ -23,7 +23,7 @@ Este repositório foi criado com o objetivo de estudar e praticar tecnologias mo
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
+
 
 ## 🎯 Objetivo
 
@@ -32,7 +32,7 @@ Este repositório foi criado com o objetivo de estudar e praticar tecnologias mo
 * Criar pequenos projetos e protótipos
 * Evoluir como desenvolvedor front-end
 
----
+
 
 ## 📂 Conteúdo
 
@@ -44,25 +44,25 @@ Este repositório pode conter:
 * Experimentos com Tailwind CSS
 * Práticas com TypeScript
 
----
+
 
 ## ⚠️ Aviso
 
 Este repositório é voltado para estudos e pode conter códigos em desenvolvimento ou incompletos.
 
----
+
 
 ## 📈 Evolução
 
 Aqui você poderá acompanhar minha evolução contínua no desenvolvimento web 🚀
 
----
+
 
 ## 👨‍💻 Autor
 
 Feito por **José Kawam**
 
----
+
 
 <p align="center">
   💡 <i>“Aprender fazendo é o melhor caminho.”</i>
