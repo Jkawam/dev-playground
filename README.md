@@ -1,10 +1,5 @@
 # 🚀 Dev Playground
 
-<p align="center">
-  <b>Repositório de estudos focado em desenvolvimento front-end moderno</b>
-</p>
-
-
 
 ## 📌 Sobre
 
