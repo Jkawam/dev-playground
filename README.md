@@ -9,7 +9,7 @@ Este repositório foi criado com o objetivo de estudar e praticar tecnologias mo
 
 ## 🛠 Tecnologias
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -17,7 +17,6 @@ Este repositório foi criado com o objetivo de estudar e praticar tecnologias mo
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
-
 
 
 ## 🎯 Objetivo
