@@ -41,6 +41,17 @@ Este repositório foi criado com o objetivo de estudar e praticar tecnologias mo
 * 🎨 **Estilizações modernas** com Tailwind CSS.
 * 💅 **CSS Avançado** (Animações, Grid, Flexbox e Responsividade).
 * 🔐 **Práticas rigorosas** com TypeScript.
+   
+---
+### ⚠️ Aviso
+
+Este repositório é voltado para estudos e pode conter códigos em desenvolvimento ou incompletos.
+
+---
+
+### 📈 Evolução
+
+Aqui você poderá acompanhar minha evolução contínua no desenvolvimento web 🚀
 
 ---
 <p align="center">
