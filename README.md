@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+## 📌 Sobre
 
 Este repositório foi criado com o objetivo de estudar e praticar tecnologias modernas de desenvolvimento web, com foco em aplicações front-end utilizando as principais ferramentas do mercado.
 
